@@ -55,3 +55,36 @@ img{
   height: 400px;
   padding-bottom: 400px;
 }
+
+.Projects{
+  display: flex;
+
+}
+.Python{
+  padding-left: 10px;
+  border: solid 1px rgb(238, 109, 130);
+  filter: drop-shadow(21px 20px 24px pink);
+  margin: 0 40px;
+}
+.Java{
+  margin-top: 40px;
+  padding-left: 10px;
+  border: solid 1px rgb(238, 109, 130);
+  filter: drop-shadow(21px 20px 24px pink);
+
+}
+
+.JavaScript{
+  margin-top: 40px;
+  padding-left: 10px;
+  border: solid 1px rgb(238, 109, 130);
+  filter: drop-shadow(21px 20px 24px pink);
+  width: 50%;
+}
+.Others{
+  margin-top: 40px;
+  padding-left: 10px;
+  border: solid 1px rgb(238, 109, 130);
+  filter: drop-shadow(21px 20px 24px pink);
+  width: 50%;
+}
